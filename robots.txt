@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-abmb9q.my-photos.pics/sitemap.xml
